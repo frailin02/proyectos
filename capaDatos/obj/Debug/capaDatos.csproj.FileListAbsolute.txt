@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\bin\Debug\capaDatos.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\bin\Debug\capaDatos.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\bin\Debug\capaEntidad.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\bin\Debug\capaEntidad.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\obj\Debug\capaDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\obj\Debug\capaDatos.Properties.Resources.resources
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\obj\Debug\capaDatos.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\obj\Debug\capaDatos.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaDatos\obj\Debug\capaDatos.pdb

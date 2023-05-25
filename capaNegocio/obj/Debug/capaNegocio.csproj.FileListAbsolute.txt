@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaNegocio.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaNegocio.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaDatos.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaEntidad.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaDatos.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\bin\Debug\capaEntidad.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\obj\Debug\capaNegocio.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\obj\Debug\capaNegocio.Properties.Resources.resources
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\obj\Debug\capaNegocio.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\obj\Debug\capaNegocio.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaNegocio\obj\Debug\capaNegocio.pdb

@@ -1,0 +1,25 @@
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\Registro de visitas proyecto final.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\Registro de visitas proyecto final.exe
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\Registro de visitas proyecto final.pdb
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaEntidad.exe
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaNegocio.exe
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaDatos.exe
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaEntidad.pdb
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaEntidad.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaNegocio.pdb
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaNegocio.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaDatos.pdb
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\bin\Debug\capaDatos.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\Registro_de_visitas_proyecto_final.Properties.Resources.resources
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\Registro_de_visitas_proyecto_final.p_formLogin.resources
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\Registro de visitas proyecto final.exe
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\Registro de visitas proyecto final.pdb
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\Registro_de_visitas_proyecto_final.P_agregar_usuario.resources
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\Registro_de_visitas_proyecto_final.p_agregarVisita.resources
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\Registro_de_visitas_proyecto_final.Inicio.resources
+C:\Users\HP\OneDrive\Programacion\C#\Registro de visitas proyecto final\obj\Debug\Registro_de_visitas_proyecto_final.visitas.resources

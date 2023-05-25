@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\bin\Debug\capaEntidad.exe.config
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\bin\Debug\capaEntidad.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\obj\Debug\capaEntidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\obj\Debug\capaEntidad.Properties.Resources.resources
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\obj\Debug\capaEntidad.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\obj\Debug\capaEntidad.exe
+C:\Users\HP\OneDrive\Programacion\C#\capaEntidad\obj\Debug\capaEntidad.pdb
